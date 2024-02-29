@@ -2,5 +2,5 @@
 
 <?PHP
   $message = "Hello, PHP!";
-  echo $message;
+  echo $$message;
 ?>
