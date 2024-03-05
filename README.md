@@ -1,6 +1,6 @@
 # 87
 
 <?PHP
-  $message = "Hi, php!";
+  $message = "Hello, php!";
   echo $$message;
 ?>
