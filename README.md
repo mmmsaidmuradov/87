@@ -1,6 +1,6 @@
 # 87
 
 <?PHPhello
-  $message = "hei, php!";
+  $message = "hi, php!";
   echo $$message;
 ?>qA
