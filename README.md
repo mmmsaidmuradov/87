@@ -3,4 +3,4 @@
 <?PHPhello
   $message = "hello, php!";
   echo $$message;
-?>qA
+?>qAA
