@@ -1,6 +1,6 @@
 # 87
 
-<?PHPhello
+<?PHP18
   $message = "hello, php!";
   echo $$message;
 ?>qAA
