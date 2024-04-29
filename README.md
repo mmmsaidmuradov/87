@@ -1,6 +1,6 @@
 # 87
 
 <?PHP19
-  $message = "hi, php!";
+  $message = "hello, php!";
   echo $$message;
 ?>qAA
