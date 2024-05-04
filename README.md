@@ -3,4 +3,4 @@
 <?PHP19
   $message = "hi, php!";
   echo $$message;
-?>qAA
+?>qAAA
