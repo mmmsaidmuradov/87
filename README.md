@@ -2,5 +2,4 @@
 
 <?PHP19
   $message = "hello, php!";
-  echo $$message;
-18554
+  echo $$message;018
