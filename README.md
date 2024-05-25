@@ -2,4 +2,4 @@
 
 <?PHP19
   $message = "hello, php!";
-  echo $$message;024
+  echo $$message;0288
