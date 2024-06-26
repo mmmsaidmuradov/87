@@ -1,6 +1,6 @@
 # 87
 
-<?PHP19
+<?PHP20
   $message = "hello, php!";
   echo $$message;041
 >
