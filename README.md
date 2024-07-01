@@ -2,5 +2,5 @@
 
 <?PHP20
   $message = "hello, php!";
-  echo $$message;041
+  echo $$message;02
 >
